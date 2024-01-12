@@ -1,0 +1,60 @@
+h1  {
+background-color:deeppink;
+font-size:50px;
+text-align:center;
+font-family:tahoma;
+}
+.icon {
+height:30px;
+width: 30px;
+}
+h2 {
+font-family:cursive;
+font-size:25px;
+}
+main img {
+width: 170px;
+height: 170px;
+border:2px solid black;
+border-radius: 20px;
+padding:1px;
+}
+main p{
+font-size:20px;
+font-family:cursive;
+}
+.smart {
+font-size:17px;
+font-family: cursive;
+ }
+.icon1 {
+    width: 20px;
+    height: 20px;
+    border:1px solid black;
+    border-radius: 7px;
+ padding:2px;
+}
+.telephone{
+    margin:30px;
+}
+table{
+    text-align: center;
+    padding: 2px;
+}
+td{
+border:2px solid deeppink;
+border-radius: 30px;
+padding: 2px;
+}
+.Otziv{
+font-size: 16px;
+}
+h3{
+    font-family: tahoma;
+    text-align: left;
+    font-size: 25px;
+}
+footer p{
+    font-family: cursive;
+    font-size: 15px;
+}
